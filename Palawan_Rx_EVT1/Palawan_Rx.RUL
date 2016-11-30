@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\Sean\Documents\Altium\Palawan\Palawan_Rx\Palawan_Rx.PcbDoc
+RuleKind=Width|RuleName=width_RF|Scope=Board|Minimum=5.71
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.76
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Pad_NPTH|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Poly_diffpairs|Scope=Board|Minimum=24.80
+RuleKind=Clearance|RuleName=Poly_plane|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Poly_bt|Scope=Board|Minimum=31.50

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Palawan_Rx.PrjPcb]
+   Generated File[Palawan_Rx-RoundHoles.TXT]
+   Generated File[Palawan_Rx-SlotHoles.TXT]
+   Generated File[Palawan_Rx.LDP]
+   Generated File[Palawan_Rx.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:03:35 PM On 9/11/2015
